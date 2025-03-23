@@ -1,1 +1,2 @@
-# pactice-image-recognition-systemn
+Food and Eatables Image Recognition System
+ 
